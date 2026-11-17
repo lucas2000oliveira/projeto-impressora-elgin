@@ -49,7 +49,7 @@ O trabalho faz parte da disciplina de **Programação Orientada a Objetos**.
 4. Aguarde o carregamento.
 5. Caso apareça, clique em **Import Project** (Maven/Gradle).
 6. Verifique o SDK em:
-   - *File → Project Structure → Project SDK → Java 17*
+   - *File → Project Structure → Project SDK → Java 27*
 7. Abra o arquivo `Main.java` e clique em ▶️ **Run**.
 
 ---
@@ -58,7 +58,7 @@ O trabalho faz parte da disciplina de **Programação Orientada a Objetos**.
 
 - Teste de conexão com a impressora
 - Impressão de texto simples
-- Envio de comandos **ESC/POS**
+- Impressão de qrcode
 - Verificação das portas de comunicação
 - Teste com várias mensagens
 
@@ -68,7 +68,6 @@ O trabalho faz parte da disciplina de **Programação Orientada a Objetos**.
 
 - Manual da Impressora **Elgin i9**
 - Documentação do **SDK Elgin**
-- Referência **ESC/POS**
 
 ---
 
@@ -78,4 +77,4 @@ O trabalho faz parte da disciplina de **Programação Orientada a Objetos**.
 - Bruno Capiotto
 - Gabriel de Oliveira Silva
 - Kaique Lima da Cruz
-- Lucas Oliveira
+- Lucas Oliveira Barreto
