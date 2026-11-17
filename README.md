@@ -1,5 +1,5 @@
 # 🖨️ Integração Java com Impressora Elgin i9
-### *(Coloque aqui o nome do seu projeto)*
+### impressora elgin
 ---
 
 ## 📘 Sobre o Projeto
@@ -73,8 +73,9 @@ O trabalho faz parte da disciplina de **Programação Orientada a Objetos**.
 ---
 
 ## 👥 Autores  
-*(em ordem alfabética)*
 
-- Ana Beatriz Souza
-- Carlos Henrique Pereira
-- Marcos Vinicius Almeida
+
+- Bruno Capiotto
+- Gabriel de Oliveira Silva
+- Kaique Lima da Cruz
+- Lucas Oliveira
