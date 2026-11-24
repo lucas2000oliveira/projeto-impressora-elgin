@@ -5,7 +5,7 @@
 ## 📘 Sobre o Projeto
 
 Este projeto foi desenvolvido por alunos do 2° semestre de análise e desenvolvimento de sistemas com o objetivo de criar uma aplicação Java capaz de se comunicar com a impressora **Elgin i9**, utilizando comandos **ESC/POS**, testes de impressão e interação via porta de comunicação.  
-O trabalho faz parte da disciplina de **Programação Orientada a Objetos**.
+O trabalho faz parte da disciplina de **Algoritimos e Programação**.
 
 ---
 
@@ -13,9 +13,8 @@ O trabalho faz parte da disciplina de **Programação Orientada a Objetos**.
 
 - **Java 27**
 - **IntelliJ IDEA**
-- **Biblioteca ESC/POS**
 - **Driver/SDK da Elgin i9**
-- *(Opcional)* Maven ou Gradle
+  
 
 ---
 
